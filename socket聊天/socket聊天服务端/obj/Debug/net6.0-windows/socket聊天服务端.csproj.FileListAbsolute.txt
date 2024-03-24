@@ -1,0 +1,16 @@
+D:\Csharp_project\socket聊天\socket聊天服务端\bin\Debug\net6.0-windows\socket聊天服务端.exe
+D:\Csharp_project\socket聊天\socket聊天服务端\bin\Debug\net6.0-windows\socket聊天服务端.deps.json
+D:\Csharp_project\socket聊天\socket聊天服务端\bin\Debug\net6.0-windows\socket聊天服务端.runtimeconfig.json
+D:\Csharp_project\socket聊天\socket聊天服务端\bin\Debug\net6.0-windows\socket聊天服务端.dll
+D:\Csharp_project\socket聊天\socket聊天服务端\bin\Debug\net6.0-windows\socket聊天服务端.pdb
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.server.resources
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.csproj.GenerateResource.cache
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.AssemblyInfoInputs.cache
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.AssemblyInfo.cs
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.csproj.CoreCompileInputs.cache
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.dll
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\refint\socket聊天服务端.dll
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.pdb
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\socket聊天服务端.genruntimeconfig.cache
+D:\Csharp_project\socket聊天\socket聊天服务端\obj\Debug\net6.0-windows\ref\socket聊天服务端.dll

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "\u65B0\u5EFA\u914D\u7F6E\u6587\u4EF6",
+    "Projects": [
+      {
+        "Name": "socket\u804A\u5929\\socket\u804A\u5929\u5BA2\u6237\u7AEF.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "socket\u804A\u5929\u5BA2\u6237\u7AEF"
+      },
+      {
+        "Name": "socket\u804A\u5929\u670D\u52A1\u7AEF\\socket\u804A\u5929\u670D\u52A1\u7AEF.csproj",
+        "Action": "Start",
+        "DebugTarget": "socket\u804A\u5929\u670D\u52A1\u7AEF"
+      }
+    ]
+  }
+]
